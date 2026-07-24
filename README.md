@@ -1,5 +1,5 @@
 # Cafe Sales Analysis & Data Cleaning
-This project focuses on inspecting, cleaning, and analyzing a café sales dataset (`dirty_cafe_sales.csv`). It addresses common real-world data issues such as missing values, system-generated errors, and invalid entries, while using Machine Learning to detect transactional anomalies.
+This project focuses on inspecting, cleaning, and analyzing a café sales dataset (`dirty_cafe_sales.xlsx`). It addresses common real-world data issues such as missing values, system-generated errors, and invalid entries, while using Machine Learning to detect transactional anomalies.
  - Key Steps & Methodology:
   1. Data Inspection & Cleaning:
     Handled missing data and corrected invalid text entries (e.g., `ERROR`, `UNKNOWN`).
