@@ -13,10 +13,10 @@ This project focuses on inspecting, cleaning, and analyzing a café sales datase
     Recommended auditing Point of Sale (POS) terminals and cashier devices to ensure accurate future data collection.
 - Project Files
 
- "dirty_cafe_sales.csv": The primary raw sales dataset.
+ "dirty_cafe_sales.xlsx": The primary raw sales dataset.
  "Untitled1.ipynb" (or your notebook file): The Jupyter Notebook containing the full Python code for cleaning, analysis, and ML anomaly detection
 
 -How to Run-
 1. Clone or download this repository.
-2. Place "dirty_cafe_sales.csv" and the `.ipynb` notebook in the same folder.
+2. Place "dirty_cafe_sales.xlsx" and the `.ipynb` notebook in the same folder.
 3. Open and run the notebook in Jupyter Notebook or VS Code.
